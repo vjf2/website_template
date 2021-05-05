@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:vjf5@georgetown.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vforoughirad
