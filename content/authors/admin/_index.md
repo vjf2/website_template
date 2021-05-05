@@ -66,4 +66,6 @@ highlight_name: false
 
 I am a postdoctoral fellow in biology at Georgetown University and co-Director of the [Shark Bay Dolphin Project](https:/www.monkeymiadolphins.org). I am interested behavioral ecology of marine mammals.
 
+I am generally interested in how ecology and evolution shape social behavior in marine mammals. My dissertation research examined how genetic and environmental factors interact to produce complex social behavior in bottlenose dolphins in Shark Bay, Western Australia. As a National Science Foundation Graduate Research Fellow I collaborated with the University of the Sunshine Coast, Queensland, Australia on the genetics project through the NSF GROW program. I am additionally involved in research on sociogenetic structure in pilot whales in North Carolina with Duke University.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
