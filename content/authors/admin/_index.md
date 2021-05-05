@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral fellow in biology at Georgetown University and co-Director of the [Shark Bay Dolphin Project](www.monkeymiadolphins.org). I am interested behavioral ecology of marine mammals.
+I am a postdoctoral fellow in biology at Georgetown University and co-Director of the [Shark Bay Dolphin Project](https:/www.monkeymiadolphins.org). I am interested behavioral ecology of marine mammals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
